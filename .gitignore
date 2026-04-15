@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+**/.idea/
+*.iml
+
+# Build output
+out/
+**/out/
+*.class
+
+# Runtime-generated files
+high_scores.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
