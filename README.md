@@ -7,7 +7,9 @@ Navigate a monster-filled dungeon, collect loot, and survive long enough to clea
 
 ## 📸 Screenshots
 
-> *(Add screenshots here — see §How to Run for what to capture)*
+![Main Menu](screenshots/main_menu.png)
+![Hero Creation](screenshots/hero_creation.png)
+![Gameplay](screenshots/gameplay.png)
 
 ---
 
